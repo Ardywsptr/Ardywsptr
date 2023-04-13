@@ -1,16 +1,78 @@
-# Halo semua! 
+<h1 align="center">Hi 👋, I'm Ardy Wirasaputra</h1>
 
-Perkenalkan nama saya **Ardy Wirasaputra**.
+<div align="center">
+  <img height="320" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif"  />
+</div>
 
-Saya seorang **Mahasiswa Teknik Informatika** di [Universitas Pamulang](https://informatika.unpam.ac.id/).
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Ardywsptr/count.svg?"/>
+</div>
 
-Saat ini saya sedang menjalani Studi Independen Kampus Merdeka X Dicoding dengan kelas  [Pengembang Front-End Web dan Back-End](https://kampusmerdeka.kemdikbud.go.id/activity/active/detail/3297596).
+<br clear="both">
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ardy-wsptr-b2b9b2248/)ku ya.
+<h3 align="center">A passionate frontend web developer from Indonesia</h3>
 
-<p align="left">
-<a href="https://github.com/Ardywsptr">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<br>
+
+- 🔭 I’m currently working on [ColorBlindTest](https://github.com/mluqi/colorblind-test)
+
+- 🌱 I’m currently learning **React, a front-end web developer JavacSript library and Laravel, a back-end web developer PHP framework at Dicoding Academy Indonesia**
+
+- 👯 I’m looking to collaborate on [ColorBlindTest](https://github.com/mluqi/colorblind-test)
+
+- 💬 Ask me about **PHP and JavaScript programming languages**
+
+- 📫 How to reach me **ardywsptr1@gmail.com**
+
+- ⚡ Fun fact **I think I am funny**
+
+<br>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<img align="right" height="180" src="https://media0.giphy.com/media/ZFiBmGVClrgxt02N9X/200.gif"  />
+
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" width="47" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" width="47" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" width="47" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" width="47" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" width="47" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" width="47" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" width="47" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" width="47" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="35" width="47" alt="laravel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" width="47" alt="mysql logo"  />
+</div>
+
+<h3 align="left">Connect with me:</h3>
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ardywsptr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ardywsptr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Ardywsptr&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="371" alt="streak graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+###
+
+<img src="https://raw.githubusercontent.com/Ardywsptr/Ardywsptr/blob/output/snake.svg" alt="Snake animation" />
